@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home{
+  @apply bg-emerald-500 
+}
+
+.row{
+  @apply flex justify-center items-center
+}
+
+
+.active{
+  @apply bg-emerald-500
+}
+
